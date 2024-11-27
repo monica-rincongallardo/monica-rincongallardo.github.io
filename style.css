@@ -1,0 +1,111 @@
+*{
+    font-family: "Roboto", serif;
+}
+
+header{
+    background-color: #417c9a;
+}
+
+.nav-item a{
+    color: #f0f8ff;
+}
+#nombre{
+    color: #f0f8ff;
+}
+#boton-perfil{
+    background-color: #04354A;
+}
+.nav-item a:hover{
+    color: #04354A;
+}
+#icono-header{
+    color: #04354A;
+}
+
+
+#app{
+    color: #26637f;
+}
+.btn-cv{
+    background-color: #04354A;
+    color: #f0f8ff;
+    border: none;
+}
+.btn-cv:hover{
+   background-color: #417c9a;
+}
+
+
+.habilidades h2{
+    background-color: #b7d7ea;
+    color: #124b65;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+}
+.habilidades i{
+    color: #04354A;
+}
+
+
+.proyectos h2{
+    background-color: #b7d7ea;
+    color: #124b65;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+}
+.btn-proyecto{
+    background-color: #6298b5;
+    border: none;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color: #f0f8ff;
+}
+
+
+.testimonios h2{
+    background-color: #b7d7ea;
+    color: #124b65;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+}
+.card .card-title{
+    color: #124b65;
+}
+
+
+#contacto{
+    background-color: #b7d7ea;
+}
+#contacto h1{
+    color: #124b65;
+    letter-spacing: 0.2em;
+}
+#contacto i{
+    color: #04354A;
+}
+#contacto button{
+    background-color: #04354A;
+    color: #f0f8ff;
+    border: none;
+}
+#contacto button:hover{
+    background-color: #417c9a;
+}
+
+footer{
+    background-color: #417c9a;
+}
+footer p{
+    color: #c3e3fd; 
+}
+footer i{
+    color: #f0f8ff;  
+}
+footer a{
+    text-decoration: none;
+    color: #f2f4f3; 
+}
