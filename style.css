@@ -28,8 +28,11 @@ header{
 }
 .btn-cv{
     background-color: #04354A;
-    color: #f0f8ff;
     border: none;
+}
+.btn-cv a{
+    text-decoration: none;
+    color: #f0f8ff;
 }
 .btn-cv:hover{
    background-color: #417c9a;
@@ -64,16 +67,27 @@ header{
     color: #f0f8ff;
 }
 
+.certificados{
+    text-align: center;
+}
 
-.testimonios h2{
+.certificados h2{
     background-color: #b7d7ea;
     color: #124b65;
-    text-align: center;
     font-weight: bold;
     letter-spacing: 0.2em;
 }
-.card .card-title{
+.certificados .card .card-title{
     color: #124b65;
+}
+
+.certificados .card{
+    height: 75%;
+}
+
+.certificados .card-img-top{
+    width: 100%;
+    align-items: center;
 }
 
 
